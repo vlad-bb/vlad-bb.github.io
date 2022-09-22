@@ -1,6 +1,6 @@
 # **Personal page Vladyslav Babenko**
 
-## [Visit Swarm](https://vlad-bb.github.io/)
+## [Visit Web Site](https://vlad-bb.github.io/)
 
 
 ![GitHub repo size](https://img.shields.io/badge/repo%20size-239%20kB-pink?&style=plastic)
